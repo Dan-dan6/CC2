@@ -5,10 +5,6 @@ import java.util.Scanner;
 
 
 
-/**
- *
- * @author M306User
- */
 public class GrocceryShopppingList {
 
     /**
